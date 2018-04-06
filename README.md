@@ -1,2 +1,5 @@
 # hello-world
-First Repository aka learning how to use GitHub effectively.
+
+Sup, dawgs!
+
+Moon tacos are for chumps.
